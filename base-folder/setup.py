@@ -14,7 +14,7 @@ setup(
     description=DESCRIPTION,
     packages=find_packages(),
     install_requires=[],
-    scripts=['libname'],
+    scripts=[],
     keywords=['python', 'calculator', 'mentalMaths'],
     classifiers=[
         "Development Status :: 1 - Planning",
