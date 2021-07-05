@@ -16,3 +16,5 @@
 # from libname.operations import hcf2
 # print(hcf2(50,75))
 
+from libname.operations import hcf
+print(hcf(5,25,65,75,105))
