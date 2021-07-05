@@ -1,12 +1,16 @@
 Metadata-Version: 1.1
 Name: CalculatorPro
-Version: 2.2
-Summary: A basic hello package
+Version: 2.3
+Summary: Fully integrated and packaged all sorts of mathematical equations and common problems, series.
 Home-page: UNKNOWN
 Author: codechamp2006 (Sagnik Ray)
 Author-email: sagnikraycoder27@gmail.com
 License: UNKNOWN
-Description: Hi. This is CalculatorPro.
+Description: For detailed and full documentation, visit [My Github Repository](https://github.com/codechamp2006/Calculator)
+        
+        
+        
+        
 Keywords: python,calculator,mentalMaths
 Platform: UNKNOWN
 Classifier: Development Status :: 1 - Planning
