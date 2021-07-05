@@ -6,7 +6,7 @@ import os
 with open("README.md", "r", encoding="utf-8") as fh:
     LONG_DESCRIPTION = fh.read()
 
-VERSION = '2.1'
+VERSION = '2.2'
 DESCRIPTION = 'A basic hello package'
 
 

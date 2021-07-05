@@ -14,6 +14,6 @@ def greeting(applyBool):
       print("Done.....")
       print("Now, i am ready for use 😃😃😃😃😃😃")
     else:
-        return
+        print("Hi. I am CalculatorPro!")
 
 
