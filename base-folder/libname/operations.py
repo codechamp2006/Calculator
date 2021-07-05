@@ -42,3 +42,4 @@ def hcf2(num1,num2):
     return HCF # returns the HCF        
 
 
+
