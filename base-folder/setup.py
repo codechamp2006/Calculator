@@ -2,8 +2,13 @@ from setuptools import setup, find_packages
 import codecs
 import os
 
-VERSION = '0.0.1'
+# long description
+with open("README.md", "r", encoding="utf-8") as fh:
+    LONG_DESCRIPTION = fh.read()
+
+VERSION = '2.1'
 DESCRIPTION = 'A basic hello package'
+
 
 # Setting up
 setup(
@@ -12,6 +17,7 @@ setup(
     author="codechamp2006 (Sagnik Ray)",
     author_email="sagnikraycoder27@gmail.com",
     description=DESCRIPTION,
+    long_description= LONG_DESCRIPTION,
     packages=find_packages(),
     install_requires=[],
     scripts=[],

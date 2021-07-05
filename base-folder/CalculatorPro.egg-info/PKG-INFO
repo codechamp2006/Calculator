@@ -1,12 +1,12 @@
 Metadata-Version: 1.1
 Name: CalculatorPro
-Version: 0.0.1
+Version: 2.1
 Summary: A basic hello package
 Home-page: UNKNOWN
 Author: codechamp2006 (Sagnik Ray)
 Author-email: sagnikraycoder27@gmail.com
 License: UNKNOWN
-Description: UNKNOWN
+Description: Hi. This is CalculatorPro.
 Keywords: python,calculator,mentalMaths
 Platform: UNKNOWN
 Classifier: Development Status :: 1 - Planning
