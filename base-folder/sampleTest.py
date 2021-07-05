@@ -1,8 +1,4 @@
-from libname.init import operations
-from libname.init import hello
+from libname.hello import greeting
 
-hello.greeting(True)
-print(operations.multiply(1, 2))
-
-
+greeting(True)
 
