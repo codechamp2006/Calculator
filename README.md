@@ -6,6 +6,13 @@ The CalculatorPro Library is hosted in the following :
 > - [Pypi](https://pypi.org/project/CalculatorPro/)
 > - [Github](https://github.com/codechamp2006/Calculator)
 
-The Library has one main folder [libname](base-folder/libname)
+The Library has one main folder [libname](base-folder/libname).
+
+### File Structure
+Folder ["libname"](base-folder/libname) currently has 3 python files : 
+> - [hello.py](base-folder/libname/hello.py)
+> - [init.py](base-folder/libname/init.py)
+> - [operations.py](base-folder/libname/operations.py)
+
 
 
