@@ -33,5 +33,12 @@ def fibonacci(limit):
         a = b
         b = c
 
+def hcf2(num1,num2):
+    # this function will print the hcf of 2 numbers
+    # for-loop to obtain the highest common factor
+    for i in range(1,num1*num2,+1):
+        if (num1 % i == 0 and num2 % i == 0):
+            HCF = i
+    return HCF # returns the HCF        
 
 

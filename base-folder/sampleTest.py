@@ -13,5 +13,6 @@
 # from libname.operations import fibonacci
 # print(fibonacci(10))
 
-
+# from libname.operations import hcf2
+# print(hcf2(50,75))
 
