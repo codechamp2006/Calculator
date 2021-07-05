@@ -14,5 +14,11 @@ Folder ["libname"](base-folder/libname) currently has 3 python files :
 > - [init.py](base-folder/libname/init.py)
 > - [operations.py](base-folder/libname/operations.py)
 
+# Ways to Install CalculatorPro
+- Through Pypi :  
+### 1 line command to install it from Pypi 
+``` python
+pip install CalculatorPro
+```
 
 
