@@ -1,5 +1,5 @@
-from operations import MathOperations
-from hello import Greet
+from libname.operations import MathOperations
+from libname.hello import Greet
 
 
 
